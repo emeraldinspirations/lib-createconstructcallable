@@ -1,0 +1,21 @@
+{
+    "name": "emeraldinspirations/lib-createconstructcallable",
+    "description": "Returns an anonymous callable function referencing the constructor of a class",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Matthew \"Juniper\" Barlett",
+            "email": "emeraldinspirations@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "emeraldinspirations\\library\\createConstructCallable\\": "src/"
+        }
+    },
+    "require-dev": {
+    }
+}
